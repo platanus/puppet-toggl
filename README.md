@@ -1,4 +1,4 @@
-# Skydrive Puppet Module for Boxen
+# Toggl Puppet Module for Boxen
 
 Install [Toggl](http://www.toggl.com), for time tracking.
 
