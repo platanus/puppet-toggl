@@ -5,7 +5,7 @@ Install [Toggl](http://www.toggl.com), for time tracking.
 ## Usage
 
 ```puppet
-include toggle
+include toggl
 ```
 
 ## Required Puppet Modules
