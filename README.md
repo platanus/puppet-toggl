@@ -1,4 +1,4 @@
-# Toggl Puppet Module for Boxen
+# Toggl Puppet Module for Boxen [![Build Status](https://travis-ci.org/boxen/puppet-toggl.png)](https://travis-ci.org/boxen/puppet-toggl)
 
 Install [Toggl](http://www.toggl.com), for time tracking.
 
