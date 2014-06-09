@@ -17,6 +17,6 @@ class toggl {
   }
   package { 'Toggl':
     provider => 'appdmg',
-    source   => 'http://assets.toggl.com/installers/TogglDesktop-2014-03-06-16-37-57.dmg'
+    source   => 'http://assets.toggl.com/installers/TogglDesktop-7_877-2014-06-09-12-59-14.dmg'
   }
 }
